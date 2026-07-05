@@ -37,6 +37,21 @@ This book is designed specially for computer vision users, machine learning engi
 6. Chapter 6: More Image Enhancement
 7. Chapter 7: Face Image Processing
 
+<details open>
+  <summary><h2>Images and Animations from the Book</summary>
+
+![](Chapter_07/images/fisherfaces.gif) 
+![](Chapter_04/images/ssw.gif) 
+![](Chapter_04/images/jpeg.gif) 
+![](Chapter_07/images/face_parsing.gif) 
+![](Chapter_06/images/srgan.gif) 
+![](Chapter_06/images/dehazing.gif) 
+![](Chapter_04/images/tmatch.gif) 
+![](images_from_book.png)
+
+</details>
+
+
 ### About the Author
 Sandipan Dey is a Data Scientist with a wide range of interests, covering topics such as Machine Learning, Deep Learning, Image Processing and Computer Vision. He has worked in numerous data science fields, such as recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in Computer Science from the University of Maryland, Baltimore County, and has published in a few IEEE data mining conferences and journals. He has also authored a couple of Image Processing books, published from an international publication house. He has earned certifications from 100+ MOOCs on data science and related courses. He is a regular blogger (at sandipanweb @wordpress, medium and data science central) and is a Machine Learning education enthusiast.
 
